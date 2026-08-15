@@ -1,0 +1,12 @@
+PD Express cinematic public design
+=================================
+Optional media files:
+- hero-video.mp4: a 10–20 second silent looping video. Recommended 1920x1080, under 15 MB.
+- hero-poster.jpg: a fallback high-quality hero image.
+
+Place both files in this public folder. Without them, the website still uses the premium dark gradient and graphic lighting design.
+For each division, you can later add:
+- store-hero.jpg
+- real-estate-hero.jpg
+- motors-hero.jpg
+and update the CSS to use them as backgrounds.

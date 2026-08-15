@@ -1,0 +1,9 @@
+Optional hero media
+-------------------
+To use a moving hero background, add either:
+1. hero-video.mp4 (recommended)
+2. hero-poster.jpg (fallback image)
+
+Place those files in this public folder.
+
+The site already looks good without them: it shows the animated dark gradient, floating light effects, and grid pattern.
